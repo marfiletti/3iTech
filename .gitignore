@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules
+
+# Build directory
+/dist
+
+# Other files
+.DS_Store
+
+# Cache directories
+.npm
+.sass-cache
+.tmp
+
+# Logs
+/logs
+*.log
+npm-debug.log*
+package-lock.json
+
+# IDE files
+.idea/
